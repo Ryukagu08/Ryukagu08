@@ -1,14 +1,8 @@
 ## Hi there 👋
 <!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-readme-stats-git-master-ryukagu08s-projects.vercel.app/api?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-mu-five-18.vercel.app/api?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-master-ryukagu08s-projects.vercel.app/api/top-langs/?username=Ryukagu08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats-mu-five-18.vercel.app/api/top-langs/?username=Ryukagu08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
