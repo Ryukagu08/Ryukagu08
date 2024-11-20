@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- GitHub Stats Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukagu08&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukagu08&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryukagu08&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
