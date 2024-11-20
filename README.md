@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Top Langs](https://ryukagu.vercel.app/)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://ryukagu08s-projects.vercel.app/api/top-langs/?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
