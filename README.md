@@ -3,7 +3,8 @@
 [![GitHub Stats](https://ryukagu-git-main-ryukagu08s-projects.vercel.app/api?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Top Languages Card -->
-[![Top Languages](https://ryukagu-git-main-ryukagu08s-projects.vercel.app/api/top-langs/?username=Ryukagu08&exclude_forks=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://ryukagu-git-main-ryukagu08s-projects.vercel.app/api/top-langs/?username=Ryukagu08&repo_type=owner)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
