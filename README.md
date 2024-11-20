@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Languages](https://your-deployment-name.vercel.app/api/top-langs?username=Ryukagu08)
+![Top Languages](https://ryukagu-git-main-ryukagu08s-projects.vercel.app/)
 
 <!--
 **Ryukagu08/Ryukagu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
