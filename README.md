@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Top Langs](https://ryukagu-git-main-ryukagu08s-projects.vercel.app/api/top-langs/?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://ryukagu-git-dependabot-npmandyarnesl-db80a2-ryukagu08s-projects.vercel.app/api/top-langs/?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Ryukagu08/Ryukagu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
