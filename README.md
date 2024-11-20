@@ -1,9 +1,6 @@
 ## Hi there 👋
-<!-- GitHub Stats Card -->
-[![GitHub Stats](https://ryukagu-git-dependabot-npmandyarnesl-db80a2-ryukagu08s-projects.vercel.app/api?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://ryukagu08s-projects.vercel.app/api?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Top Languages Card (Fallback) -->
-[![Top Languages](https://ryukagu-git-dependabot-npmandyarnesl-db80a2-ryukagu08s-projects.vercel.app/api/top-langs/?username=Ryukagu08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
