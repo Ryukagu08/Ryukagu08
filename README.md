@@ -1,6 +1,9 @@
 ## Hi there 👋
-[![GitHub Stats](https://ryukagu08s-projects.vercel.app/api?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats Card -->
+[![GitHub Stats](https://ryukagu-git-main-ryukagu08s-projects.vercel.app/api?username=Ryukagu08)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Top Languages Card -->
+[![Top Languages](https://ryukagu-git-main-ryukagu08s-projects.vercel.app/api/top-langs/?username=Ryukagu08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
