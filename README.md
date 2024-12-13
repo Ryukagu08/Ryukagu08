@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats-mu-five-18.vercel.app/api/top-langs/?username=Ryukagu08&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Stats](https://github-readme-stats-mu-five-18.vercel.app/api?username=Ryukagu08&theme=midnight-purple&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
--# Don't mind the inexperience.
+Don't mind the inexperience.
 <!--
 **Ryukagu08/Ryukagu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
