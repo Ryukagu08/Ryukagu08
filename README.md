@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- GitHub Stats Card -->
-[![Top Langs](https://github-readme-stats-mu-five-18.vercel.app/api/top-langs/?username=Ryukagu08&layout=compact&theme=dark&hide=mathematica,assembly,c,dockerfile&langs_count=10&exclude_repo=cpp-learning)](https://github.com/anuraghazra/github-readme-stats) 
-[![GitHub Stats](https://github-readme-stats-mu-five-18.vercel.app/api?username=Ryukagu08&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mu-five-18.vercel.app/api/top-langs/?username=Ryukagu08&layout=donut&theme=transparent&hide=mathematica,assembly,c,dockerfile&langs_count=10&exclude_repo=cpp-learning)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Stats](https://github-readme-stats-mu-five-18.vercel.app/api?username=Ryukagu08&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Don't mind the inexperience.
 <!--
