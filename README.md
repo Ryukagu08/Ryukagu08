@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- GitHub Stats Card -->
-[![Top Langs](https://github-readme-stats-mu-five-18.vercel.app/api/top-langs/?username=Ryukagu08&layout=donut&theme=chartreuse-dark&hide=mathematica)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-mu-five-18.vercel.app/api/top-langs/?username=Ryukagu08&layout=donut&theme=chartreuse-dark&hide=mathematica&hide=assembly&hide=c)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Stats](https://github-readme-stats-mu-five-18.vercel.app/api?username=Ryukagu08&theme=chartreuse-dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Don't mind the inexperience.
